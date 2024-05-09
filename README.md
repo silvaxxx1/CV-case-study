@@ -31,7 +31,8 @@ models ranked by peformance (best to worst) :
 1- Resnet50 - no data augmentaion 
 2- Resnet50 - with data augmentaion
 3- CNN from scratch model with augemenation 
-4- VGG16 - 
+4- VGG16 - with data augmentaion
+
 Project Structure
 
 * CNN.ipynb: Jupyter Notebook file containing the implementation of a convolutional neural network (CNN) from scratch for image classification.
