@@ -1,5 +1,8 @@
 ﻿# CV-case-study
  
+Data used : cifar_10
+Framework : tensderflow 2
+
 Project Structure
 
 * CNN.ipynb: Jupyter Notebook file containing the implementation of a convolutional neural network (CNN) from scratch for image classification.
