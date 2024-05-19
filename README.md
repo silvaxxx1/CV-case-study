@@ -3,7 +3,6 @@
 Data used : cifar_10
 Framework : tensderflow 2
 
-Great! Here's the updated introduction for your GitHub repository README, focusing on exploring best practices in computer vision:
 
 ---
 
