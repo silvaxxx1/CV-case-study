@@ -1,7 +1,7 @@
 ﻿# CV-case-study
  
 Data used : cifar_10
-Framework : tensderflow 2
+Framework : tensorflow 2
 
 
 ---
